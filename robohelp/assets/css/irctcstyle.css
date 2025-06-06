@@ -1,0 +1,91 @@
+/*Created with Adobe RoboHelp*/
+.head1 {
+  font-family: Arial;
+  text-decoration: underline;
+  font-size: 24px;
+  font-weight: bold;
+  color: #130751;
+  line-height: 1.5;
+  text-align: center;
+}
+.note {
+  font-family: Arial;
+  font-size: 16px;
+  font-style: italic;
+  white-space: normal;
+  color: #000080;
+  line-height: 1.5;
+  text-align: left;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-top-color: #000080;
+  border-bottom-color: #000080;
+}
+.bodytext {
+  font-family: Arial;
+  font-weight: normal;
+  white-space: normal;
+  font-size: 14px;
+  color: #000000;
+  line-height: 1.5;
+}
+ol.ol {}
+ul.ul {}
+.head2 {
+  font-family: Arial;
+  white-space: normal;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  color: #3A3AA1;
+  line-height: 1.5;
+  text-align: left;
+}
+.head3 {
+  font-family: Arial;
+  font-weight: bold;
+  white-space: normal;
+  font-size: 16px;
+  color: #000000;
+  line-height: 1.5;
+  text-align: left;
+}
+ol.ol>li {
+  font-family: Arial;
+  font-weight: normal;
+  white-space: normal;
+  font-size: 16px;
+  color: #000000;
+  line-height: 1.5;
+  text-align: left;
+}
+ul.ul>li {
+  font-family: Arial;
+  font-weight: normal;
+  white-space: normal;
+  font-size: 16px;
+  color: #000000;
+  line-height: 1.5;
+  text-align: left;
+}
+ol.LowerAlpha {
+  list-style: lower-alpha;
+}
+ul.Square {
+  list-style: square;
+}
+ol.reltopics-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+ol.seealso-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #000080;
+}
+ol.Decimal {
+  list-style: decimal;
+}
+ol.LowerRoman {
+  list-style: lower-roman;
+}
