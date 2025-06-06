@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="IRCTC user manual" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="assets\irctc1\cover_page.htm">
+    
+    <topic>
+      assets\irctc1\cover_page.htm
+    </topic>
+    
+    <topic>
+      assets\irctc1\Introduction.htm
+    </topic>
+    
+    <topic>
+      assets\irctc1\General.htm
+    </topic>
+    
+    <topic>
+      assets\irctc1\service.htm
+    </topic>
+    
+    <topic>
+      assets\irctc1\user_registration.htm
+    </topic>
+    
+    <topic>
+      assets\irctc1\login_to_irctc.htm
+    </topic>
+    
+    <topic>
+      assets\irctc2\Ticket_Booking.htm
+    </topic>
+    
+    <topic>
+      assets\irctc2\Authorised_ID_for_travel.htm
+    </topic>
+    
+    <topic>
+      assets\irctc2\Payment_Options.htm
+    </topic>
+    
+    <topic>
+      assets\irctc2\Tracking_Ticket.htm
+    </topic>
+    
+    <topic>
+      assets\irctc2\Cancellation_Refund_Modification.htm
+    </topic>
+    
+    <topic>
+      assets\irctc2\complaint_procedure.htm
+    </topic>
+    
+    <topic>
+      assets\irctc3\FAQ.htm
+    </topic>
+    
+    <topic>
+      assets\irctc3\disclaimer.htm
+    </topic>
+    
+    <topic>
+      assets\irctc3\Liability.htm
+    </topic>
+    
+    <topic>
+      assets\irctc3\Privacy_policy.htm
+    </topic>
+    
+    <topic>
+      assets\irctc3\Rules_and_Policies.htm
+    </topic>
+    
+    <topic>
+      assets\irctc3\termination.htm
+    </topic>
+    
+    <topic>
+      assets\irctc3\Your_Obligations.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
