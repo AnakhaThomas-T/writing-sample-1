@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"irctc1","type":"book","tilePath":"","key":"toc2"},{"name":"irctc2","type":"book","tilePath":"","key":"toc3"},{"name":"irctc3","type":"book","tilePath":"","key":"toc4"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
